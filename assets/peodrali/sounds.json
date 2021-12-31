@@ -1,0 +1,12 @@
+{
+    "misc.sauna": {
+		"sounds": [
+			"peodrali:misc/sauna"
+		]
+	},
+    "misc.taputus": {
+        "sounds": [
+            "peodrali:misc/taputus"
+        ]
+    }   
+}

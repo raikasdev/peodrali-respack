@@ -1,0 +1,32 @@
+{
+    "musket_load0": {
+      "sounds": [
+        "musket:musket_load0"
+      ]
+    },
+    "musket_load1": {
+      "sounds": [
+        "musket:musket_load1"
+      ]
+    },
+    "musket_load2": {
+      "sounds": [
+        "musket:musket_load2"
+      ]
+    },
+    "musket_ready": {
+      "sounds": [
+        "musket:musket_ready"
+      ]
+    },
+    "musket_fire": {
+      "sounds": [
+        "musket:musket_fire"
+      ]
+    },
+    "pistol_fire": {
+      "sounds": [
+        "musket:pistol_fire"
+      ]
+    }
+}

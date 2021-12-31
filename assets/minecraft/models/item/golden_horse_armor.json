@@ -1,0 +1,18 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:item/golden_horse_armor"
+  },
+  "overrides": [
+    { "predicate": {"custom_model_data": 1 }, "model": "custom/saunakauha" },
+    { "predicate": {"custom_model_data": 2 }, "model": "custom/saunakauha_vesi" },
+    { "predicate": {"custom_model_data": 3 }, "model": "custom/saunakiulu" },
+    { "predicate": {"custom_model_data": 4 }, "model": "custom/saunakiulu_vesi" },
+    { "predicate": {"custom_model_data": 5 }, "model": "musket:item/musket" },
+    { "predicate": {"custom_model_data": 6 }, "model": "musket:item/musket_loaded" },
+    { "predicate": {"custom_model_data": 7 }, "model": "musket:item/musket_with_bayonet" },
+    { "predicate": {"custom_model_data": 8 }, "model": "musket:item/musket_with_bayonet_loaded" },
+    { "predicate": {"custom_model_data": 9 }, "model": "musket:item/pistol" },
+    { "predicate": {"custom_model_data": 10 }, "model": "musket:item/pistol_loaded" }
+  ]
+}
