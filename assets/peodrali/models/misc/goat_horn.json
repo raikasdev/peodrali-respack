@@ -1,6 +1,6 @@
 {
     "parent": "minecraft:item/handheld",
     "textures": {
-      "layer0": "peodrali:custom/goat_horn"
+      "layer0": "peodrali:item/goat_horn"
     }
 }
