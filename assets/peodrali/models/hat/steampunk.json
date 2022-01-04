@@ -2,7 +2,7 @@
 	"credit": "Made with Blockbench",
 	"textures": {
 		"2": "peodrali:hats/steampunkhattu",
-		"4": "cuspeodrali:hatstom/nauha",
+		"4": "peodrali:hats/nauha",
 		"particle": "peodrali:hats/steampunkhattu"
 	},
 	"elements": [
