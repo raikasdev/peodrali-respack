@@ -1,9 +1,9 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "peodrali:block/bone_block_side",
-		"1": "peodrali:block/wither_rose",
-		"particle": "peodrali:block/bone_block_side"
+		"0": "block/bone_block_side",
+		"1": "block/wither_rose",
+		"particle": "block/bone_block_side"
 	},
 	"elements": [
 		{
