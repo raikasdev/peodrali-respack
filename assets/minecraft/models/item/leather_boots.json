@@ -1,0 +1,23 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:item/scute"
+  },
+  "overrides": [
+    { "predicate": {"custom_model_data": 1 }, "model": "peodrali:hat/academic" },
+    { "predicate": {"custom_model_data": 2 }, "model": "peodrali:hat/beanie" },
+    { "predicate": {"custom_model_data": 3 }, "model": "peodrali:hat/bicorne" },
+    { "predicate": {"custom_model_data": 4 }, "model": "peodrali:hat/brimbaret" },
+    { "predicate": {"custom_model_data": 5 }, "model": "peodrali:hat/christmas" },
+    { "predicate": {"custom_model_data": 6 }, "model": "peodrali:hat/clown" },
+    { "predicate": {"custom_model_data": 7 }, "model": "peodrali:hat/crown_gold" },
+    { "predicate": {"custom_model_data": 8 }, "model": "peodrali:hat/crown_iron" },
+    { "predicate": {"custom_model_data": 9 }, "model": "peodrali:hat/feather" },
+    { "predicate": {"custom_model_data": 10 }, "model": "peodrali:hat/hay" },
+    { "predicate": {"custom_model_data": 11 }, "model": "peodrali:hat/mask" },
+    { "predicate": {"custom_model_data": 12 }, "model": "peodrali:hat/peaked_cap" },
+    { "predicate": {"custom_model_data": 13 }, "model": "peodrali:hat/steampunk" },
+    { "predicate": {"custom_model_data": 14 }, "model": "peodrali:hat/tricone" },
+    { "predicate": {"custom_model_data": 15 }, "model": "peodrali:hat/witch" }
+  ]
+}
