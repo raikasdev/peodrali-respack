@@ -2,7 +2,7 @@
 	"credit": "Made with Blockbench by Roni Ä",
 	"texture_size": [50, 50],
 	"textures": {
-		"0": "peodrali:knife/tikari_tera",
+		"0": "peodrali:knife/blade",
 		"1": "peodrali:knife/tikari_pidike",
 		"2": "peodrali:knife/tikari_kulta",
 		"3": "peodrali:knife/tikari_pidike_korostus",
