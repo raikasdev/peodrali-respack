@@ -2,7 +2,7 @@
 	"credit": "Made with Blockbench",
 	"textures": {
 		"0": "block/cobblestone",
-		"2": "block/stove_fire",
+		"2": "peodrali:model/stove_fire",
 		"particle": "block/cobblestone"
 	},
 	"elements": [

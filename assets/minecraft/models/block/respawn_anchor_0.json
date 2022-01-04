@@ -2,7 +2,7 @@
 	"credit": "Made with Blockbench",
 	"textures": {
 		"0": "block/cobblestone",
-		"1": "block/black_window",
+		"1": "peodrali:model/black_window",
 		"particle": "block/cobblestone"
 	},
 	"elements": [
