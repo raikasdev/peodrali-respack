@@ -22,9 +22,10 @@
     { "predicate": {"custom_model_data": 16 }, "model": "peodrali:dice/5" },
     { "predicate": {"custom_model_data": 17 }, "model": "peodrali:dice/6" },
     { "predicate": {"custom_model_data": 18 }, "model": "peodrali:lock/key" },
-    { "predicate": {"custom_model_data": 19 }, "model": "peodrali:animal/stuffed_chicken" },
-    { "predicate": {"custom_model_data": 20 }, "model": "peodrali:animal/stuffed_cow" },
-    { "predicate": {"custom_model_data": 21 }, "model": "peodrali:animal/stuffed_pig" },
-    { "predicate": {"custom_model_data": 22 }, "model": "peodrali:animal/stuffed_sheep" }
+    { "predicate": {"custom_model_data": 19 }, "model": "peodrali:lock/lock" },
+    { "predicate": {"custom_model_data": 20 }, "model": "peodrali:animal/stuffed_chicken" },
+    { "predicate": {"custom_model_data": 21 }, "model": "peodrali:animal/stuffed_cow" },
+    { "predicate": {"custom_model_data": 22 }, "model": "peodrali:animal/stuffed_pig" },
+    { "predicate": {"custom_model_data": 23 }, "model": "peodrali:animal/stuffed_sheep" }
   ]
 }
