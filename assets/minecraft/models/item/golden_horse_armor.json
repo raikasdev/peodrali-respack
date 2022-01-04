@@ -14,6 +14,12 @@
     { "predicate": {"custom_model_data": 8 }, "model": "musket:item/musket_with_bayonet_loaded" },
     { "predicate": {"custom_model_data": 9 }, "model": "musket:item/pistol" },
     { "predicate": {"custom_model_data": 10 }, "model": "musket:item/pistol_loaded" },
-    { "predicate": {"custom_model_data": 11 }, "model": "peodrali:misc/goat_horn" }
+    { "predicate": {"custom_model_data": 11 }, "model": "peodrali:misc/goat_horn" },
+    { "predicate": {"custom_model_data": 12 }, "model": "peodrali:dice/1" },
+    { "predicate": {"custom_model_data": 13 }, "model": "peodrali:dice/2" },
+    { "predicate": {"custom_model_data": 14 }, "model": "peodrali:dice/3" },
+    { "predicate": {"custom_model_data": 15 }, "model": "peodrali:dice/4" },
+    { "predicate": {"custom_model_data": 16 }, "model": "peodrali:dice/5" },
+    { "predicate": {"custom_model_data": 17 }, "model": "peodrali:dice/6" }
   ]
 }
