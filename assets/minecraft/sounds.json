@@ -44,5 +44,8 @@
 	},
 	"block.chest.open": {
 		"replace": "true"
+	},
+	"block.chest.close": {
+		"replace": "true"
 	}
 }
