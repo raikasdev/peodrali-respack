@@ -23,5 +23,23 @@
 		"sounds": [
 			"custom/thud"
 		]
+	},
+	"block.fence_gate.close": {
+		"replace": "true"
+	},
+	"block.fence_gate.open": {
+		"replace": "true"
+	},
+	"block.wooden_door.close": {
+		"replace": "true"
+	},
+	"block.wooden_door.open": {
+		"replace": "true"
+	},
+	"block.wooden_trapdoor.close": {
+		"replace": "true"
+	},
+	"block.wooden_trapdoor.open": {
+		"replace": "true"
 	}
 }

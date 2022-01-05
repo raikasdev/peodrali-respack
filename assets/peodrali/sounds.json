@@ -8,5 +8,37 @@
         "sounds": [
             "peodrali:misc/taputus"
         ]
-    }   
+    },
+    "wooden_trapdoor.close": {
+		"sounds": [
+		  "block/wooden_trapdoor/close1",
+		  "block/wooden_trapdoor/close2",
+		  "block/wooden_trapdoor/close3"
+		]
+	},
+	"wooden_trapdoor.open": {
+		"sounds": [
+		    "block/wooden_trapdoor/open1",
+		    "block/wooden_trapdoor/open2",
+		    "block/wooden_trapdoor/open3",
+		    "block/wooden_trapdoor/open4",
+		    "block/wooden_trapdoor/open5"
+		]
+	},
+	"wooden_door.close": {
+		"sounds": [
+		    "block/wooden_door/close2",
+		    "block/wooden_door/close5",
+		    "block/wooden_door/close6"
+		]
+	},
+	"wooden_door.open": {
+		"sounds": ["block/wooden_door/open3", "block/wooden_door/open4"]
+	},
+	"fence_gate.close": {
+		"sounds": ["block/fence_gate/close1", "block/fence_gate/close2"]
+	},
+	"fence_gate.open": {
+		"sounds": ["block/fence_gate/open1", "block/fence_gate/open2"]
+	}
 }

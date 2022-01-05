@@ -26,6 +26,12 @@
     { "predicate": {"custom_model_data": 20 }, "model": "peodrali:animal/stuffed_chicken" },
     { "predicate": {"custom_model_data": 21 }, "model": "peodrali:animal/stuffed_cow" },
     { "predicate": {"custom_model_data": 22 }, "model": "peodrali:animal/stuffed_pig" },
-    { "predicate": {"custom_model_data": 23 }, "model": "peodrali:animal/stuffed_sheep" }
+    { "predicate": {"custom_model_data": 23 }, "model": "peodrali:animal/stuffed_sheep" },
+    { "predicate": {"custom_model_data": 24 }, "model": "peodrali:lock/lock_chest" },
+    { "predicate": {"custom_model_data": 25 }, "model": "peodrali:lock/lock_doublechest" },
+    { "predicate": {"custom_model_data": 26 }, "model": "peodrali:lock/lock_door" },
+    { "predicate": {"custom_model_data": 27 }, "model": "peodrali:lock/lock_door_flip" },
+    { "predicate": {"custom_model_data": 28 }, "model": "peodrali:lock/lock_door_open" },
+    { "predicate": {"custom_model_data": 29 }, "model": "peodrali:lock/lock_door_open_flip" }
   ]
 }
