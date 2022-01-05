@@ -40,5 +40,8 @@
 	},
 	"fence_gate.open": {
 		"sounds": ["block/fence_gate/open1", "block/fence_gate/open2"]
-	}
+	},
+    "chest.open": {
+        "sounds": ["block/chest/open"]
+    }
 }

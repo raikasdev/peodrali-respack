@@ -41,5 +41,8 @@
 	},
 	"block.wooden_trapdoor.open": {
 		"replace": "true"
+	},
+	"block.chest.open": {
+		"replace": "true"
 	}
 }
