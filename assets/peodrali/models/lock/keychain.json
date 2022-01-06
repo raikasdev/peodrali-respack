@@ -704,9 +704,9 @@
 			"scale": [0.5, 0.5, 0.5]
 		},
 		"gui": {
-			"rotation": [-56, 0, -73],
-			"translation": [2, 2, 0],
-			"scale": [0.7, 0.7, 0.7]
+			"rotation": [-54, 2, -78],
+			"translation": [2.5, 1.5, 0],
+			"scale": [0.8, 0.8, 0.8]
 		},
 		"fixed": {
 			"rotation": [-131, 0, 92],
