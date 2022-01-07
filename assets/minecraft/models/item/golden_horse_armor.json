@@ -33,6 +33,7 @@
     { "predicate": {"custom_model_data": 27 }, "model": "peodrali:lock/lock_door_flip" },
     { "predicate": {"custom_model_data": 28 }, "model": "peodrali:lock/lock_door_open" },
     { "predicate": {"custom_model_data": 29 }, "model": "peodrali:lock/lock_door_open_flip" },
-    { "predicate": {"custom_model_data": 30 }, "model": "peodrali:lock/keychain" }
+    { "predicate": {"custom_model_data": 30 }, "model": "peodrali:lock/keychain" },
+    { "predicate": {"custom_model_data": 31 }, "model": "peodrali:cloth/spool_empty" }
   ]
 }
