@@ -1,0 +1,90 @@
+{
+    "multipart": [
+      {
+        "when": {
+          "up": "true"
+        },
+        "apply": {
+          "model": "peodrali:steam/valve_open_post"
+        }
+      },
+      {
+        "when": {
+          "north": "low"
+        },
+        "apply": {
+          "model": "peodrali:steam/pipe_side",
+          "uvlock": true
+        }
+      },
+      {
+        "when": {
+          "east": "low"
+        },
+        "apply": {
+          "model": "peodrali:steam/pipe_side",
+          "y": 90,
+          "uvlock": true
+        }
+      },
+      {
+        "when": {
+          "south": "low"
+        },
+        "apply": {
+          "model": "peodrali:steam/pipe_side",
+          "y": 180,
+          "uvlock": true
+        }
+      },
+      {
+        "when": {
+          "west": "low"
+        },
+        "apply": {
+          "model": "peodrali:steam/pipe_side",
+          "y": 270,
+          "uvlock": true
+        }
+      },
+      {
+        "when": {
+          "north": "tall"
+        },
+        "apply": {
+          "model": "peodrali:steam/pipe_side",
+          "uvlock": true
+        }
+      },
+      {
+        "when": {
+          "east": "tall"
+        },
+        "apply": {
+          "model": "peodrali:steam/pipe_side",
+          "y": 90,
+          "uvlock": true
+        }
+      },
+      {
+        "when": {
+          "south": "tall"
+        },
+        "apply": {
+          "model": "peodrali:steam/pipe_side",
+          "y": 180,
+          "uvlock": true
+        }
+      },
+      {
+        "when": {
+          "west": "tall"
+        },
+        "apply": {
+          "model": "peodrali:steam/pipe_side",
+          "y": 270,
+          "uvlock": true
+        }
+      }
+    ]
+  }
