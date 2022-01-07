@@ -2,7 +2,7 @@
 	"credit": "Made with Blockbench",
 	"textures": {
 		"0": "block/spruce_log",
-		"1": "block/light_gray_concrete_powder",
+		"1": "peodrali:misc/colorable",
 		"particle": "block/spruce_log"
 	},
 	"elements": [
