@@ -4,7 +4,6 @@
     "layer0": "minecraft:item/leather_horse_armor"
   },
   "overrides": [
-    { "predicate": {"custom_model_data": 1 }, "model": "item/spool" },
-    { "predicate": {"custom_model_data": 2 }, "model": "peodrali:cloth/test" }
+    { "predicate": {"custom_model_data": 1 }, "model": "peodrali:cloth/spool" }
   ]
 }
