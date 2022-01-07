@@ -32,10 +32,15 @@ jobs:
           ACTIONS_ALLOW_UNSECURE_COMMANDS: true
         run: |
           echo ::set-env name=HASH::$(sha1sum respack.zip | awk '{ print $1 }')
+      - uses: dev-drprasad/delete-older-releases@v0.2.0
+        with:
+          keep_latest: 0
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       - name: Release
         uses: softprops/action-gh-release@v1
         with:
           body: ${{ env.HASH }}
-          name: ${{ github.event.head_commit.message }}
-          tag_name: ${{ github.event.head_commit.message }}
+          name: latest
+          tag_name: latest
           files: respack.zip
