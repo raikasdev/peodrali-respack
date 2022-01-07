@@ -19,6 +19,7 @@
     { "predicate": {"custom_model_data": 12 }, "model": "peodrali:hat/peaked_cap" },
     { "predicate": {"custom_model_data": 13 }, "model": "peodrali:hat/steampunk" },
     { "predicate": {"custom_model_data": 14 }, "model": "peodrali:hat/tricone" },
-    { "predicate": {"custom_model_data": 15 }, "model": "peodrali:hat/witch" }
+    { "predicate": {"custom_model_data": 15 }, "model": "peodrali:hat/witch" },
+    { "predicate": {"custom_model_data": 16 }, "model": "peodrali:hat/pickelhaube" }
   ]
 }
