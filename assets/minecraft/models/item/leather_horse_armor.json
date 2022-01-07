@@ -1,11 +1,10 @@
 {
   "parent": "minecraft:item/generated",
   "textures": {
-    "layer0": "minecraft:item/leather_boots",
-    "layer1": "item/leather_boots_overlay"
+    "layer0": "minecraft:item/leather_horse_armor"
   },
   "overrides": [
-    { "predicate": {"custom_model_data": 1 }, "model": "peodrali:cloth/spool" },
+    { "predicate": {"custom_model_data": 1 }, "model": "item/spool" },
     { "predicate": {"custom_model_data": 2 }, "model": "peodrali:cloth/test" }
   ]
 }
