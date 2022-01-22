@@ -5,6 +5,7 @@
   },
   "overrides": [
     { "predicate": {"custom_model_data": 1 }, "model": "peodrali:cloth/spool" },
-    { "predicate": {"custom_model_data": 2 }, "model": "peodrali:cloth/fabric" }
+    { "predicate": {"custom_model_data": 2 }, "model": "peodrali:cloth/fabric" },
+    { "predicate": {"custom_model_data": 3 }, "model": "peodrali:misc/water_color" }
   ]
 }
