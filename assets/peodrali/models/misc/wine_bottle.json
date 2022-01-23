@@ -1,0 +1,7 @@
+{
+    "parent": "minecraft:item/handheld",
+    "textures": {
+      "layer0": "peodrali:misc/wine_bottle_overlay",
+      "layer1": "peodrali:misc/wine_bottle"
+    }
+}

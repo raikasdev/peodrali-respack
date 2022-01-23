@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "overrides": [
+    { "predicate": {"custom_model_data": 1 }, "model": "peodrali:misc/wine_bottle" }
+  ]
+}
