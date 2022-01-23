@@ -47,5 +47,8 @@
 	},
 	"block.chest.close": {
 		"replace": "true"
+	},
+	"entity.item_frame.add_item": {
+		"replace": "true"
 	}
 }
