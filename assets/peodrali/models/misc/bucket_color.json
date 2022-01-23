@@ -1,6 +1,7 @@
 {
     "parent": "minecraft:item/handheld",
     "textures": {
-      "layer0": "peodrali:misc/bucket_color"
+      "layer0": "peodrali:misc/bucket_color_water",
+      "layer1": "peodrali:misc/bucket_color"
     }
 }
