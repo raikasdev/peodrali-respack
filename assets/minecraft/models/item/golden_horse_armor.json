@@ -36,6 +36,15 @@
     { "predicate": {"custom_model_data": 30 }, "model": "peodrali:lock/keychain" },
     { "predicate": {"custom_model_data": 31 }, "model": "peodrali:cloth/spool_empty" },
     { "predicate": {"custom_model_data": 32 }, "model": "peodrali:misc/gag" },
-    { "predicate": {"custom_model_data": 33 }, "model": "peodrali:misc/empty_wine_bottle" }
+    { "predicate": {"custom_model_data": 33 }, "model": "peodrali:misc/empty_wine_bottle" },
+    { "predicate": {"custom_model_data": 34 }, "model": "peodrali:misc/prisoner_clothes" },
+    { "predicate": {"custom_model_data": 35 }, "model": "peodrali:misc/prisoner_ball" },
+    { "predicate": {"custom_model_data": 36 }, "model": "peodrali:blacksmith/axe" },
+    { "predicate": {"custom_model_data": 37 }, "model": "peodrali:blacksmith/hoe" },
+    { "predicate": {"custom_model_data": 38 }, "model": "peodrali:blacksmith/pickaxe" },
+    { "predicate": {"custom_model_data": 39 }, "model": "peodrali:blacksmith/shovel" },
+    { "predicate": {"custom_model_data": 40 }, "model": "peodrali:blacksmith/sword" },
+    { "predicate": {"custom_model_data": 41 }, "model": "peodrali:blacksmith/sword_crossguard" },
+    { "predicate": {"custom_model_data": 42 }, "model": "peodrali:blacksmith/sword_pommel" }
   ]
 }

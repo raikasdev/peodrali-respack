@@ -12,3 +12,4 @@ Credits:
 - AmberWat, /space CC-BY-SA 4
 - ewewukek, /assets/musket CC0
 - https://www.planetminecraft.com/texture-pack/wine-bottle-potions-no-glint/, /assets/peodrali/textures/misc wine_bottle wine_bottle_overlay empty_wine_bottle
+- https://www.planetminecraft.com/texture-pack/little-improvements/, /assets/minecraft/textures/block/grindstone_round.png & .png.mcmeta
