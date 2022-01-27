@@ -10,6 +10,10 @@
     { "predicate": {"custom_model_data": 4 }, "model": "peodrali:blacksmith/hot_shovel" },
     { "predicate": {"custom_model_data": 5 }, "model": "peodrali:blacksmith/hot_sword" },
     { "predicate": {"custom_model_data": 6 }, "model": "peodrali:blacksmith/hot_sword_crossguard" },
-    { "predicate": {"custom_model_data": 7 }, "model": "peodrali:blacksmith/hot_sword_pommel" }
+    { "predicate": {"custom_model_data": 7 }, "model": "peodrali:blacksmith/hot_sword_pommel" },
+    { "predicate": {"custom_model_data": 8 }, "model": "peodrali:blacksmith/hot_iron_ingot" },
+    { "predicate": {"custom_model_data": 9 }, "model": "peodrali:blacksmith/hot_iron_nugget" },
+    { "predicate": {"custom_model_data": 10 }, "model": "peodrali:blacksmith/hot_iron_plate" },
+    { "predicate": {"custom_model_data": 11 }, "model": "peodrali:blacksmith/hot_iron_stick" }
   ]
 }
